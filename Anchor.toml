@@ -8,6 +8,9 @@ skip-lint = false
 [programs.localnet]
 favorites = "HthP1rPekRR4Vrgs5TZxiK7zQiF73bZ3ZewpJwk4jYLv"
 
+[programs.devnet]
+favorites = "HthP1rPekRR4Vrgs5TZxiK7zQiF73bZ3ZewpJwk4jYLv"
+
 [registry]
 url = "https://api.apr.dev"
 
